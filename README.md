@@ -13,3 +13,4 @@ where its power comes will be:
 
 Now , 4 , is basically what i like to call the VIM effect, i use neovim (i think it shows) and if you get started with some premade config, its kinda hard to get used to it , but as you go on... you get it!, until you find out about lua and then you can basically do anything 
 
+for more architectural details read [[How it should work]]
